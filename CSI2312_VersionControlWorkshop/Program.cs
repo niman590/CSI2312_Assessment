@@ -33,7 +33,7 @@ namespace CSI2312_FinalAssessment
         static void Main(string[] args)
         {
             // define some data
-            int[] data = { 1, 2, 3, 4, 5, 6 };
+            int[] data = { 0, 1, 2, 3, 4, 5, 6 };
             // menu loop
 
             while (true)
