@@ -33,13 +33,13 @@ namespace CSI2312_FinalAssessment
         static void Main(string[] args)
         {
             // define some data
-            int[] data = { 1, 2, 3, 4, 5, 6 };
+            int[] data = { 1, 2, 3, 4, 5, 6, 7, 8 };
             // menu loop
 
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("This is the submission of: [YOUR NAME HERE]\n");
+                Console.WriteLine("This is the submission of: Niman Nethmika\n");
                 int index = 0;
                 Console.Write("The current data is: [");
                 foreach (int x in data)
